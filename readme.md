@@ -5,4 +5,7 @@
 
 The data 'twitter_sentiment_analysis_data_raw.csv' was driven from <a href="https://www.kaggle.com/datasets/kazanova/sentiment140" target="_blank">this kaggle contest</a>
 
+The data 'News_Category_Dataset_v3.json' was driven from <a href="https://www.kaggle.com/code/ronikdedhia/news-category-prediction/data" target="_blank">this kaggle contest</a>
+
+
 Throughout the course, there is a Jupyter notebook that applies the methods learned each week.
